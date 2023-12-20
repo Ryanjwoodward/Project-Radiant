@@ -1,2 +1,4 @@
 # Project-Radiant
-This Repor contains the Proof-of-Concept Radio Board project. That demonstrates the ability to transmit video data over radio
+This Repo contains the Proof-of-Concept Radio Board project to show large data can be transmitted over Radio.
+
+
